@@ -7,7 +7,7 @@ This is a Online Food Ordering templet, where i used basic html and css, This is
 
 ## Live Demo 
 
-[Live Demo]
+[Live Demo]([absolute link](https://amanulla.github.io/fooddelivery/))
 
 ## Getting Started
 
